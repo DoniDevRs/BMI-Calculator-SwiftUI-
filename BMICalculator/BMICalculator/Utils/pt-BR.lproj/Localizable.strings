@@ -1,0 +1,15 @@
+
+"titleText" = "Cálculo IMC";
+"subTitleText" = "Descubra o seu índice de Massa Corporal";
+"textFieldWeightText" = "Peso (Kg)";
+"textFieldHeightText" = "Altura (m)";
+"buttonCalculateTitle" = "Calcular";
+
+"infoTitleText" = "Seu indice de massa corporal é:";
+"buttonRecalculateTitle" = "Recalcular";
+
+"thinness" = "Magreza";
+"underweight" = "Abaixo do Peso";
+"idealWeight" = "Peso Ideal";
+"overweight" = "Acima do Peso";
+"obesity" = "Obesidade";

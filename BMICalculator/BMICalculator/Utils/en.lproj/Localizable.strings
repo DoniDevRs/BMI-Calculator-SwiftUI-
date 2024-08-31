@@ -1,0 +1,15 @@
+
+"titleText" = "BMI Calculator";
+"subTitleText" = "Check your Body Mass Index";
+"textFieldWeightText" = "Weight (Kg)";
+"textFieldHeightText" = "Height (m)";
+"buttonCalculateTitle" = "Calculate";
+
+"infoTitleText" = "Your BMI is:";
+"buttonRecalculateTitle" = "Recalculate";
+
+"thinness" = "Thinness";
+"underweight" = "Underweight";
+"idealWeight" = "Ideal Weight";
+"overweight" = "Overweight";
+"obesity" = "Obesity";

@@ -27,6 +27,6 @@ https://github.com/user-attachments/assets/e3636944-d27e-4dd4-b323-75a0ddbaa260
 ## Steps to build and run
 - Clone repo 
 - Open `BMICalculator.xcodeproj` in XCode
-  - Select Target MyHeroes (pre-selected)
+  - Select Target BMICalculator (pre-selected)
   - Choose simulator/device of choice
 - Click on Run

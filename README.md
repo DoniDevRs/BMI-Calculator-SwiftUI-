@@ -9,6 +9,7 @@ The result is presented modally and in the screen the user can look their BMI, a
 ## Technical specs
 - Language: Swift
 - Architecture: MVVM
+- SwiftUI
 
 ## Features
 - Home Screen
